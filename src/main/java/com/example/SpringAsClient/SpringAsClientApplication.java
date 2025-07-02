@@ -1,5 +1,6 @@
 package com.example.SpringAsClient;
 
+import com.example.SpringAsClient.dto.CategoryDTO;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
